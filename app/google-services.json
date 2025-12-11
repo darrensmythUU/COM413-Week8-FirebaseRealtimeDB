@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "670815652098",
+    "firebase_url": "https://fir-realtimedb25-e704f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-realtimedb25-e704f",
+    "storage_bucket": "fir-realtimedb25-e704f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670815652098:android:ddeb64b3676003f5e81a1b",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_H5vL-tktxAUoHelDWu4ifUyL7Cp-HMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

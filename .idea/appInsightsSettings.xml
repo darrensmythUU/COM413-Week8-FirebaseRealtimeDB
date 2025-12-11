@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.firebaserealtimedb" />
+                  <option name="mobileSdkAppId" value="1:670815652098:android:ddeb64b3676003f5e81a1b" />
+                  <option name="projectId" value="fir-realtimedb25-e704f" />
+                  <option name="projectNumber" value="670815652098" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
